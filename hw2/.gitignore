@@ -1,0 +1,6 @@
+*~
+*.bak
+.DS_Store/
+compiled/
+more-scheme
+run-tests
